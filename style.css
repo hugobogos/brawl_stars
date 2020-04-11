@@ -39,10 +39,10 @@ width: 30px;
 .image1{
     width: 100%;  
 }
-.figure2{
-    display: flex;
-    justify-content: start;
-}
 .image2{
     width: 600px;  
+}
+.jesaispas{
+    display: flex;
+    justify-content: space-between;
 }
