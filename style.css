@@ -32,9 +32,17 @@ header nav ul li img{
 height: 30px;
 width: 30px;
 }
-main section img{
+.figure1{
     display: flex;
     justify-content: center;
-    height: 95%;
-    width: 95%;
+}
+.image1{
+    width: 100%;  
+}
+.figure2{
+    display: flex;
+    justify-content: start;
+}
+.image2{
+    width: 600px;  
 }
