@@ -1,0 +1,40 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header nav ul div li{
+    color :rgb(255, 255, 255);
+}
+header nav{
+    background-color: rgb(0, 0, 0);
+    width: 80%;
+}
+header nav ul{
+    display: flex;
+    justify-content: space-between;
+}
+header nav ul div li{
+    margin: 5px;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    list-style:none ;
+}
+header nav ul div{
+    display: flex;
+    margin: 20px;
+}
+header{
+    justify-content: center;
+    display: flex;
+}
+header nav ul li img{
+height: 30px;
+width: 30px;
+}
+main section img{
+    display: flex;
+    justify-content: center;
+    height: 95%;
+    width: 95%;
+}
