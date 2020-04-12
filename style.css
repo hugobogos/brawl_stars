@@ -32,17 +32,24 @@ header nav ul li img{
 height: 30px;
 width: 30px;
 }
-.figure1{
+.sectionOne{
     display: flex;
     justify-content: center;
+    margin: 50px;
 }
-.image1{
-    width: 100%;  
-}
-.image2{
-    width: 600px;  
-}
-.jesaispas{
+.sectionOne figure img{
+    height: 500px;
+    width: 1600px;
+}   
+.sectionTwo{
     display: flex;
     justify-content: space-between;
+    margin: 50px;
+}
+.sectionTwo figure img{
+    height: 300px;
+    width: 600px;
+}
+.sectionTwo div{
+    padding: 50px;
 }
