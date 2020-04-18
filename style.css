@@ -53,3 +53,16 @@ width: 30px;
 .sectionTwo div{
     padding: 50px;
 }
+.sectionThree img{
+    height: 25px;
+    width: 85px;
+}
+.sectionThree h1{
+    margin: 30px;  
+}
+.sectionThree p{
+    margin: 30px;
+}
+.sectionThree{
+    width: 500px;
+}
