@@ -51,8 +51,10 @@ header nav ul .supercellid li img{
     margin: 50px;
 }
 .sectionTwo figure img{
-    height: 300px;
-    width: 600px;
+    height: 489px;
+    width: 980px;
+    position: relative;
+    left: -316px;
 }
 .sectionTwo div{
     padding: 50px;
@@ -84,4 +86,8 @@ header nav ul .supercellid li img{
 }
 .sectionFour img{
     margin: 100px;
+}
+.sectionfive{
+    display: flex;
+    justify-content: space-between;
 }
