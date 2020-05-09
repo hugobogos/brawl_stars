@@ -84,8 +84,12 @@ header nav ul .supercellid li img{
     width: 400px;
     margin: 100px;
 }
-.sectionFour img{
+.sectionFour .nita{
     margin: 100px;
+}
+.sectionFour .timeline{
+    height: 2px;
+    width: 1600px;
 }
 .sectionFive div{
     display: flex;
