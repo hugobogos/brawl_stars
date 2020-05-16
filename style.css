@@ -85,13 +85,19 @@ header nav ul .supercellid li img{
     margin: 100px;
 }
 .sectionFour .nita{
-    margin: 100px;
+    margin: 5px;
 }
-.sectionFour .timeline{
+.sectionFour .timeline img{
     height: 2px;
-    width: 1600px;
+    width: 1200px;
+    margin: 0px;
+    padding: 0px;
 }
 .sectionFive div{
     display: flex;
     justify-content: space-between;
+}
+footer{
+    display: flex;
+    justify-content: space-between  ;
 }
