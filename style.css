@@ -60,8 +60,34 @@ header nav ul .supercellid li img{
     display: flex;
 }
 .sectionThree .left-side figure img{
-    height: 450px;
-    width: 900px;
+    height: 500px;
+    width: 970px;
+    margin: 50px;
+    position: relative;
+    left: -200px;
+}
+.sectionThree .right-side h2{
+    margin: 30px;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+.sectionThree .right-side p{
+    font-size: 19px;
+    line-height: 30px;
+    margin: 30px;
+}
+.appstore{
+    height: 50px;
+    width: 147px;
+}
+.googleplay{
+    height: 50px;
+    width: 166px;
+}
+.imgsection3{
+    width: 330px;
+    display: flex;
+    justify-content: space-between;
 }
 .sectionFour img{
     height: 300px;
@@ -88,7 +114,10 @@ header nav ul .supercellid li img{
     display: flex;
     justify-content: space-between;
 }
-footer{
+.stayuptodate{
+    background-image: url(./bg_gamesocial_brawlstars.jpg);
+}
+.sectionSix{
     display: flex;
-    justify-content: space-between  ;
+    justify-content: space-between;
 }
